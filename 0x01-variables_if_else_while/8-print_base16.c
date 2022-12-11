@@ -14,8 +14,8 @@ int main(void)
 
 	for (i = 0; i < 10; i++)
 	{
-		putchar('0' + c);
-		c ++;
+		putchar(c);
+		c++;
 	}
 	c = '1';
 	for (j = 0; j < 6; j++)
