@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
- * _strcat - concatenates two strings
- * @dest: input value
- * @src: input value 
+ * _strcat - concats two arrays
  *
- * Return: void
+ * @dest: destination of concat
+ * @src: source array to concat
+ *
+ * Return: char value
  */
 char *_strcat(char *dest, char *src)
 {
@@ -12,15 +14,14 @@ char *_strcat(char *dest, char *src)
 	int j;
 
 	for (j = 0; dest[j] != '\0'; j++)
-	{
-		/* increment j*/
-	}
+	{}
 
 	for (i = 0; src[i] != '\0'; i++)
 	{
 		dest[j + i] = src[i];
 	}
-
-	dest[i + j] = '\0';
+	
+	dest[j + i] = '\0';
 	return (dest);
+
 }
