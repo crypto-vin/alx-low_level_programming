@@ -1,10 +1,10 @@
-#include "main.h"	
-#include <stdlib.h>	
-/**	
+#include "main.h"
+#include <stdlib.h>
+/**
  * argstostr - main entry
  * @ac: int input
  * @av: double pointer array
- * Return: 0	
+ * Return: 0
  */
 
 char *argstostr(int ac, char **av)
@@ -20,7 +20,6 @@ char *argstostr(int ac, char **av)
 		for (n = 0; av[i][n]; n++)
 			l++;
 	}
-	
 	l += ac;
 	
 	str = malloc(sizeof(char) * l + 1);
