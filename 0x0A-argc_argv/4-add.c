@@ -3,16 +3,18 @@
 #include <stdlib.h>
 #include <ctype.h>
 #define UNUSED(x) (void)(x)
+
 /**
  * StringCheck - checks string
  * @s: string to check
  * Return: boolean
  */
+
 int StringCheck(char *s)
 {
-	int j = 0;
+	int j;
 
-	for (; s[j] != '\0'; j++)
+	for (j = 0; s[j] != '\0'; j++)
 	{
 		if (!isdigit(s[j]))
 		{
