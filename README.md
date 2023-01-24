@@ -11,7 +11,7 @@ C is a low-level programming language which implies that it provides little or n
 - About
 - Requirements
 - Project List
-- Credits
+- Accreditation
 
 # About
 
