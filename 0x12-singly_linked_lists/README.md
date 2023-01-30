@@ -1,10 +1,11 @@
-0x11. C - Singly linked lists
-What you should learn from this project
+# 0x11. C - Singly linked lists
+
+## What you should learn from this project
 At the end of this project you are expected to be able to explain to anyone, without the help of Google:
 
 When and why using linked lists vs arrays How to build and use linked lists
 
-Exercises:
+## Tasks:
 Print list Write a function that prints all the elements of a list_t list. Prototype: size_t print_list(const list_t *h); Return: the number of nodes Format: see example If str is NULL, print [0] (nil) You are allowed to use printf
 
 List length Write a function that returns the number of elements in a linked list_t list. Prototype: size_t list_len(const list_t *h);
