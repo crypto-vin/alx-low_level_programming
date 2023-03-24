@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H_
-#define HOLBERTON_H_
+#ifndef MAIN_H
+#define MAIN_H
 /**
  * is_palindrome - is palindrome
  * @s: string to do
