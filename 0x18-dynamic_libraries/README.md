@@ -31,3 +31,5 @@ At the end of this project you are expected to be able to explain to anyone, wit
 Your posts should have examples and at least one picture, at the top. Publish your blog post on Medium or LinkedIn, and share it at least on Twitter and LinkedIn.
 
 ## Author
+
+### Vincent Munyalo
