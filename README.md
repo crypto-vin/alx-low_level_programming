@@ -49,6 +49,13 @@ ALX Africa Software Engineering Programme offers several tracks and tips on beco
 14. 0x0E-structures_typedef
 15. 0x0F-function_pointers
 16. 0x10-variadic_functions
+17. 0x12. C - Singly linked lists
+18. 0x13. C - More singly linked lists
+19. 0x14. C - Bit manipulation
+20. 0x15. C - File I/O
+21. 0x17. C - Doubly linked lists
+22. 0x18. C - Dynamic libraries
+23. 0x19. C - Stacks, Queues - LIFO, FIFO
 
 
 
