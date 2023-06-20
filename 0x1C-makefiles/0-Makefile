@@ -1,3 +1,0 @@
-#build the executable for holberton
-all: holberton.c
-	gcc main.c holberton.c -o holberton
